@@ -1,0 +1,5 @@
+2 datasets were used 
+1) redit news data: this is from where the news are scraped. ready made data which i found from kaggle
+2) Stock data: Dow Jones Industrial Average (DJIA) 
+
+then combined data is used which is also a ready made from same kaggle repo
